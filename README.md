@@ -23,8 +23,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
-![/Screen%20Shot%202024-02-17%20at%2010.44.00-fullpage.png"]
+![Screenshot](/Screen%20Shot%202024-02-17%20at%2010.44.00-fullpage.png)
 
 ### Links
 
