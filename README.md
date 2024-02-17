@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Coming Soon]()
+- Solution URL: [3-Column-Preview-Card-Component](https://rhinzz.github.io/3-Column-Preview-Card-Component)
 
 ### Built with
 
