@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/Screen%20Shot%202024-02-17%20at%2010.44.00-fullpage.png")
+![/Screen%20Shot%202024-02-17%20at%2010.44.00-fullpage.png"]
 
 ### Links
 
