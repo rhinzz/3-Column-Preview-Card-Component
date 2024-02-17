@@ -12,7 +12,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
@@ -47,8 +46,3 @@ In this challenge, I've learned some flexbox skill and using global CSS to the c
 
 - [W3Schools](https://www.w3schools.com/) - This helped me for learning HTML and CSS basics. I really liked this pattern and will use it going forward.
 - [Youtube](https://www.youtube.com) - This helped me with useful guides to sped up the building process
-
-## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
